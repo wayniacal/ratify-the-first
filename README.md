@@ -26,9 +26,9 @@ At the current U.S. population of approximately 335 million, the final tier woul
 
 ## Why the Founders Cared
 
-The Constitutional Convention of 1787 set the initial ratio at one representative per 40,000 people. George Washington, who maintained near-total silence on every substantive question at the convention, broke that silence exactly once.
+The Constitutional Convention of 1787 set the initial ratio at one representative per 40,000 people. George Washington had presided in near-total silence on every substantive question throughout the convention.
 
-On the final day, Washington rose to argue the ratio was too high and asked the delegates to lower it to one per 30,000. They agreed unanimously. Historians record it as the only time Washington voiced an opinion on any substantive issue debated at the convention.[^6]
+On the final day, Nathaniel Gorham of Massachusetts proposed lowering the ratio to one per 30,000. Washington rose to endorse it — noting that his role had until then restrained him from offering his sentiments on any question before the delegates. No opposition was made; they agreed unanimously. Historians record it as the only time Washington voiced an opinion on any substantive issue debated at the convention.[^6]
 
 James Madison, writing in *Federalist No. 55* to persuade New York to ratify the Constitution, acknowledged both sides of the problem. Too few representatives, he granted, and "so small a number of representatives will be an unsafe depositary of the public interests." Too many, and "the number ought at most to be kept within a certain limit, to avoid the confusion and intemperance of a multitude."[^7] Madison believed the House of 65 would grow, as it did. He wrote nothing anticipating a permanent cap.
 
@@ -98,26 +98,26 @@ Please consider writing letters to your state congresspeople; it is very likely 
 
 ## Footnotes
 
-[^1]: The 27th Amendment, ratified May 7, 1992. Originally proposed September 25, 1789 as part of the same package of twelve amendments as Article the First. *See* National Archives, "The 27th Amendment."
+[^1]: The 27th Amendment, ratified May 7, 1992. Originally proposed September 25, 1789 as part of the same package of twelve amendments as Article the First. *See* [National Archives, "The 27th Amendment."](https://www.archives.gov/founding-docs/amendments-11-27)
 
-[^2]: David Speiser, "Last Rights," *Astral Codex Ten*, March 11, 2026.
+[^2]: David Speiser, ["Last Rights,"](https://www.astralcodexten.com/p/last-rights) *Astral Codex Ten*, March 11, 2026.
 
-[^3]: Article the First of the proposed Bill of Rights, approved by Congress September 25, 1789. Text from the National Archives.
+[^3]: Article the First of the proposed Bill of Rights, approved by Congress September 25, 1789. Text from the [Congressional Apportionment Amendment, Wikipedia](https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment).
 
 [^4]: At 335 million people divided by 50,000 per the amendment's third tier: 6,700 representatives minimum. *See also* Speiser (2026), estimating 6,641 based on 2020 census figures.
 
-[^5]: Permanent Apportionment Act of 1929, 46 Stat. 26 (June 18, 1929).
+[^5]: Permanent Apportionment Act of 1929, 46 Stat. 26 (June 18, 1929). *See* [United States congressional apportionment, Wikipedia](https://en.wikipedia.org/wiki/United_States_congressional_apportionment).
 
-[^6]: James Madison, Notes on the Constitutional Convention, September 17, 1787. Washington's motion to lower the ratio from 40,000 to 30,000 was agreed to unanimously without debate.
+[^6]: [James Madison, Notes on the Constitutional Convention, September 17, 1787.](https://www.consource.org/document/james-madisons-notes-of-the-constitutional-convention-1787-9-17/) Gorham's motion to lower the ratio from 40,000 to 30,000, endorsed by Washington, was agreed to unanimously without debate.
 
-[^7]: James Madison, *Federalist No. 55*, February 13, 1788.
+[^7]: James Madison, [*Federalist No. 55*](https://avalon.law.yale.edu/18th_century/fed55.asp), February 13, 1788.
 
-[^8]: Melancton Smith, speech at the New York Ratifying Convention, 1788. Cited in David Ernst, "Restoring Our Congressional Representation: The Original 1st Amendment," *Liquid.us*, November 20, 2017.
+[^8]: Melancton Smith, speech at the New York Ratifying Convention, 1788. Cited in [David Ernst, "Restoring Our Congressional Representation: The Original 1st Amendment," *Liquid.us*, November 20, 2017.](https://blog.liquid.us/2017/11/20/restoring-our-congressional-representation-the-original-1st-amendment/)
 
-[^9]: Both chambers approved all twelve proposed amendments on September 25, 1789. *See* "Congressional Apportionment Amendment," Wikipedia.
+[^9]: Both chambers approved all twelve proposed amendments on September 25, 1789. *See* ["Congressional Apportionment Amendment," Wikipedia.](https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment)
 
-[^10]: Ratification dates vary slightly by source. This list follows the *Congressional Apportionment Amendment* Wikipedia article, which sources National Archives records.
+[^10]: Ratification dates vary slightly by source. This list follows the [*Congressional Apportionment Amendment* Wikipedia article](https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment), which sources National Archives records.
 
-[^11]: Justin Haskins, "Did This New Jersey Lawyer Discover a Lost Constitutional Amendment?" *The Blaze*, November 2, 2015. LaVergne's federal case was rejected; citation to specific court ruling needed.
+[^11]: [Justin Haskins, "Did This New Jersey Lawyer Discover a Lost Constitutional Amendment?" *The Blaze*, November 2, 2015.](https://www.theblaze.com/contributions/did-this-new-jersey-lawyer-discover-a-lost-constitutional-amendment) LaVergne's federal case was rejected; citation to specific court ruling needed.
 
-[^12]: David Ernst, "Restoring Our Congressional Representation: The Original 1st Amendment," *Liquid.us*, November 20, 2017.
+[^12]: [David Ernst, "Restoring Our Congressional Representation: The Original 1st Amendment," *Liquid.us*, November 20, 2017.](https://blog.liquid.us/2017/11/20/restoring-our-congressional-representation-the-original-1st-amendment/)
