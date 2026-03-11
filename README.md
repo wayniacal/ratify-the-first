@@ -1,6 +1,8 @@
-# Ratify the 1st — Landing Page Draft REV4
-
----
++++
+title = "The Bill of Rights Has a Missing Amendment"
+description = "The original First Amendment was never ratified. One representative per 50,000 citizens — finish what the Founders started."
+template = "landing.html"
++++
 
 ## The Bill of Rights Has a Missing Amendment
 
@@ -24,45 +26,43 @@ At the current U.S. population of approximately 335 million, the final tier woul
 
 ---
 
-## Why the Founders Cared
+## Why George Washington Cared
 
 The Constitutional Convention of 1787 set the initial ratio at one representative per 40,000 people. George Washington had presided in near-total silence on every substantive question throughout the convention.
 
-On the final day, Nathaniel Gorham of Massachusetts proposed lowering the ratio to one per 30,000. Washington rose to endorse it — noting that his role had until then restrained him from offering his sentiments on any question before the delegates. No opposition was made; they agreed unanimously. Historians record it as the only time Washington voiced an opinion on any substantive issue debated at the convention.[^6]
+On the final day, Nathaniel Gorham of Massachusetts proposed lowering the ratio to one per 30,000. Washington rose to endorse it after presiding in silence on every other question, noting that his role had until then restrained him from offering his sentiments on any other topic before the delegates. No opposition was made; they agreed unanimously. Historians record it as the only time Washington voiced an opinion on any substantive issue debated at the convention.[^6]
 
 James Madison, writing in *Federalist No. 55* to persuade New York to ratify the Constitution, acknowledged both sides of the problem. Too few representatives, he granted, and "so small a number of representatives will be an unsafe depositary of the public interests." Too many, and "the number ought at most to be kept within a certain limit, to avoid the confusion and intemperance of a multitude."[^7] Madison believed the House of 65 would grow, as it did. He wrote nothing anticipating a permanent cap.
 
-The Anti-Federalists were less sanguine. Melancton Smith, at the New York ratifying convention in 1788, made the case plainly: *"We certainly ought to fix, in the Constitution, those things which are essential to liberty."*[^8] Without a constitutional floor on House size, Smith and others argued, nothing would stop Congress from letting districts expand until ordinary citizens could no longer compete for seats against candidates who could afford to reach hundreds of thousands of people at once.
+A prominent Anti-Federalists, Melancton Smith, at the New York ratifying convention in 1788, made the case plainly: *"We certainly ought to fix, in the Constitution, those things which are essential to liberty."*[^8] Without a constitutional floor on House size, Smith and others argued, nothing would stop Congress from letting districts expand until ordinary citizens could no longer compete for seats against candidates who could afford to reach hundreds of thousands of people at once.
+
+Freedom of speech made it. Freedom of religion made it. Freedom from cruel and unusual punishment made it. The right to bear arms, to face your accuser, to a jury of your peers all made it. Each of these protections Americans hold dear, the ones taught in every classroom and cited in every courtroom, inspiring so many other democracies, made it into the Constitution.
+
+*The Founders put one amendment above all of them.* Higher than speech. Higher than arms. Higher than due process. It was the first item on the list: the guarantee that government could never grow so distant that ordinary citizens would stop being represented by it. Look around and see how unhelpful the government has become! George Washington himself broke his silence at the Constitutional Convention to fight for it personally. Every major founding voice considered it essential. *And it only fell one state short of passing*.
 
 ---
 
-## How It Fell One State Short
+## It Almost Passed in 1792!
 
-Congress approved Article the First on September 25, 1789, alongside the rest of what became the Bill of Rights, and sent it to the states.[^9] Ratification required eleven states, three-fourths of the fourteen then in the Union.
+Congress approved Article the First on September 25, 1789, alongside the rest of what became the Bill of Rights, and sent it to the states.[^9] Ratification required *eleven states*, three-fourths of the fourteen then in the Union. **Ten states ratified!** 
 
-Between 1789 and 1791, ten states ratified: New Jersey, Maryland, North Carolina, South Carolina, New Hampshire, New York, Rhode Island, Pennsylvania, Virginia, and Vermont.[^10] Connecticut's two legislative chambers deadlocked. The count stood at ten, one short of the threshold.
+Between 1789 and 1791: New Jersey, Maryland, North Carolina, South Carolina, New Hampshire, New York, Rhode Island, Pennsylvania, Virginia, and Vermont all ratified.[^10] Connecticut's two legislative chambers deadlocked. The count stood at ten, one short of the threshold.
 
 In June 1792, Kentucky joined the Union as the sixteenth state, raising the required threshold from eleven to twelve. Kentucky ratified, but the new denominator canceled the gain. The count stayed one short.
 
-No state has ratified since. The amendment has never been withdrawn or formally rescinded. It remains pending.
+No state has ratified since. The amendment has never been withdrawn or formally rescinded. It remains pending, forgotten.
 
 One claim about the ratification count is contested. Eugene LaVergne, a New Jersey attorney, argued in a federal lawsuit that Connecticut had in fact ratified, but that its records had been lost in archives rather than reflecting a genuine failure to act. If true, the pre-Kentucky count would have cleared the eleven-state threshold. Federal courts rejected the case.[^11] Archivists have not independently confirmed LaVergne's reading of the Connecticut records.
 
-[RESEARCH NEEDED: Primary archival sources on the Connecticut deadlock. What exactly happened in the Connecticut legislature — procedural deadlock, substantive disagreement, or something else? LaVergne's specific court filings and what evidence he submitted. Independent assessment by constitutional historians.]
-
 ---
 
-## What Buried It: The 1929 Act
+## Buried by The 1929 Act
 
-The story of Article the First cannot be told without the Permanent Apportionment Act of 1929.
+After the 1920 census documented a massive population shift toward cities, rural-dominated Congresses refused to reapportion for a decade, in direct violation of the constitutional mandate to reapportion after each census. When they finally acted, the result was the 1929 Act: a statute capping the House at 435 members, with no constitutional amendment, no referendum, and no public mechanism for challenge.[^5] Democracy continues to weep.
 
-After the 1920 census documented a massive population shift toward cities, rural-dominated Congresses refused to reapportion for a decade, in direct violation of the constitutional mandate to reapportion after each census. When they finally acted, the result was the 1929 Act: a statute capping the House at 435 members, with no constitutional amendment, no referendum, and no public mechanism for challenge.[^5]
+That cap has held for 96 years while the population has tripled.
 
-That cap has held for 96 years. The population has tripled.
-
-The 435-member cap is not in the Constitution. It is a statute Congress passed about itself. An ordinary act of legislation can change it; a ratified constitutional amendment supersedes it entirely. Most people assume the size of the House is a founding-era fixture. It is not.
-
-[RESEARCH NEEDED: Full legislative history of the 1929 Act — who sponsored it, who opposed it, what arguments were made on the floor, and whether any constitutional challenges were mounted. The political dynamics of rural vs. urban interests in the 1920s are central to understanding why this happened.]
+The 435-member cap is not in the Constitution. It is a statute Congress passed about itself. An ordinary act of legislation can change it; a ratified constitutional amendment supersedes it entirely. Most people assume the size of the House is a founding-era fixture when in fact it is counter to the intentions of the founding fathers.
 
 ---
 
@@ -80,23 +80,39 @@ A congressional race in a 50,000-person district costs a fraction of what it cos
 
 David Ernst calculated in 2017 that the average congressional district contained 711,000 constituents.[^12] A representative serving that many people cannot hold a town hall the district could actually fill, or respond personally to constituent mail at that volume. The community is too large to organize around a single race. At 50,000 constituents, the founders' intended ceiling, the arithmetic of accountability changes.
 
-[RESEARCH NEEDED: Comparative representation ratios in peer democracies. The United Kingdom elects one MP per roughly 72,000 constituents. Germany, Canada, France, and Australia all have lower ratios than the United States. Hard numbers across comparable democracies would make the U.S. outlier status concrete.]
-
 ---
 
 ## Where Things Stand
 
-Thirty-eight states must ratify. Ten are on the books from 1789 to 1792. Twenty-eight more are needed.
+Thirty-eight states must ratify. Ten already did so from 1789 to 1792. We only need twenty-eight more. This is entirely in the hands of the states and its constituents; neither congress nor the president has any right to meddle.
 
 The 27th Amendment required thirty-eight ratifications as well, starting from nothing, on a proposal nearly two centuries old that almost no one had heard of. Gregory Watson got it done in ten years with $6,000 and a letter-writing campaign.[^2]
 
-Article the First starts with ten states already recorded and a constitutional argument stronger than Watson's.
+Article the First starts with ten states already recorded and a constitutional argument stronger than Watson's. We are already more than 25% there!
 
-Please consider writing letters to your state congresspeople; it is very likely they represent a state that did not exist when the constitution was written. If you feel like it, subscribe for updates on the ratification effort. This page is open to edits via [GitHub](https://github.com/wayniacal/ratify-the-first).
+Please consider writing letters to your state congresspeople, giving them a ring, paining some nice signs for them to read when they arrive at work; it is very likely they represent a state that did not exist when the constitution was written. If you feel like it, subscribe for updates on the ratification effort. This page is open to edits via [GitHub](https://github.com/wayniacal/ratify-the-first).
+
+<div class="subscribe-section">
+  <h2>Stay Informed</h2>
+  <p>Subscribe for updates on the ratification effort, ongoing research, and the legal and political case as it develops.</p>
+  <form method="post" action="https://list.ratifythe1st.org/subscription/form" class="listmonk-form">
+    <div class="subscribe-form">
+      <input type="hidden" name="nonce" />
+      <div class="form-row">
+        <input type="email" name="email" required placeholder="Email address" />
+      </div>
+      <div class="form-row">
+        <input type="text" name="name" placeholder="Name (optional)" />
+      </div>
+      <input type="hidden" name="l" value="cf2bac87-f332-4f43-9ec2-fd7e9fb7fbc8" />
+      <div class="form-row">
+        <button type="submit">Subscribe</button>
+      </div>
+    </div>
+  </form>
+</div>
 
 ---
-
-## Footnotes
 
 [^1]: The 27th Amendment, ratified May 7, 1992. Originally proposed September 25, 1789 as part of the same package of twelve amendments as Article the First. *See* [National Archives, "The 27th Amendment."](https://www.archives.gov/founding-docs/amendments-11-27)
 
