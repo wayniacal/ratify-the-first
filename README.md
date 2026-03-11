@@ -1,4 +1,4 @@
-# Ratify the 1st — Landing Page Draft REV2
+# Ratify the 1st — Landing Page Draft REV4
 
 ---
 
@@ -10,7 +10,7 @@ Two of the original twelve did not ratify with the others in 1791. The twelfth, 
 
 The tenth has been waiting since 1789.
 
-Formally titled "Article the First," the Congressional Apportionment Amendment  set a constitutional limit on how many citizens each House member could represent, and whether that limit would be guaranteed by the Constitution or left to Congress to manage as it saw fit.
+Formally titled "Article the First," the Congressional Apportionment Amendment set a constitutional limit on how many citizens each House member could represent, and whether that limit would be guaranteed by the Constitution or left to Congress to manage as it saw fit.
 
 ---
 
@@ -84,29 +84,15 @@ David Ernst calculated in 2017 that the average congressional district contained
 
 ---
 
-## An Honest Complication
-
-There is a genuine legal problem with Article the First.
-
-A transcription error in the enrolled bill changed a single word from "less" to "more" in the third clause, producing a mathematical impossibility at certain population ranges: the stated minimum number of representatives exceeds the stated maximum, making any specific number technically unconstitutional during that window.[^2] Legal scholars disagree on whether this renders the amendment unworkable or whether courts would resolve it by reading the text against the original intent, treating it as an obvious scribal error.
-
-If Article the First were ratified, the question would go to the Supreme Court. That is not a reason to avoid ratification. It is what ratification would set in motion.
-
-[RESEARCH NEEDED: The exact word changed, which engrossed copy contains the error, whether the error appears in all enrolled copies or only some, and a full legal analysis of the textualist vs. originalist approaches. This is the strongest technical counterargument to ratification and deserves thorough treatment.]
-
----
-
 ## Where Things Stand
 
 Thirty-eight states must ratify. Ten are on the books from 1789 to 1792. Twenty-eight more are needed.
 
 The 27th Amendment required thirty-eight ratifications as well, starting from nothing, on a proposal nearly two centuries old that almost no one had heard of. Gregory Watson got it done in ten years with $6,000 and a letter-writing campaign.[^2]
 
-Article the First starts with ten states already recorded and a constitutional argument stronger than Watson's. For the first time, it has an organized campaign behind it.
+Article the First starts with ten states already recorded and a constitutional argument stronger than Watson's.
 
-Subscribe for updates on the ratification effort, ongoing research, and the legal and political case as it develops.
-
-The research notes, sources, and open questions behind this document are maintained on [GitHub](https://github.com/wayniacal/ratify-the-first). Contributions and corrections welcome.
+Please consider writing letters to your state congresspeople; it is very likely they represent a state that did not exist when the constitution was written. If you feel like it, subscribe for updates on the ratification effort. This page is open to edits via [GitHub](https://github.com/wayniacal/ratify-the-first).
 
 ---
 
